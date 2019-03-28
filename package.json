@@ -1,0 +1,16 @@
+{
+  "name": "obs",
+  "version": "1.0.0",
+  "description": "> A dark theme for [X](http://link-to-x.com).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hex-to-rgba": "^1.0.2",
+    "minimist": "^1.2.0"
+  }
+}
